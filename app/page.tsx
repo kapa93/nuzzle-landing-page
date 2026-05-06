@@ -29,7 +29,7 @@ export default function Home() {
                 alt="Nuzzle"
                 width={240}
                 height={80}
-                className="mx-auto"
+                className="mx-auto h-auto"
                 priority
               />
             </div>
@@ -49,6 +49,7 @@ export default function Home() {
               width={1200}
               height={400}
               className="w-full h-auto"
+              style={{ width: "100%", height: "auto" }}
               priority
             />
           </div>
