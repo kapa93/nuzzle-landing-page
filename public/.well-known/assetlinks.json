@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kapa.nuzzledev",
+      "sha256_cert_fingerprints": [
+        "38:2E:98:D1:B2:E9:F3:95:16:29:63:F0:4B:14:4E:73:8F:CA:7A:C6:8A:AC:09:05:A1:53:8F:4D:BE:4C:CF:FB"
+      ]
+    }
+  }
+]
