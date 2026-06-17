@@ -149,6 +149,12 @@ export default function Home() {
             <Link href="/terms" className="hover:text-white transition-colors">
               Terms of Service
             </Link>
+            <Link
+              href="/community-guidelines"
+              className="hover:text-white transition-colors"
+            >
+              Community Guidelines
+            </Link>
             <a
               href="mailto:hello@nuzzleapp.io"
               className="hover:text-white transition-colors"
