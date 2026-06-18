@@ -3,9 +3,9 @@ import { createClient } from "@supabase/supabase-js";
 import { notFound } from "next/navigation";
 
 const SITE_ORIGIN = "https://www.nuzzleapp.io";
-const APP_STORE_URL = "https://apps.apple.com/app/idREPLACE_APP_STORE_ID";
+const APP_STORE_URL = "https://apps.apple.com/app/id6781108216";
 const PLAY_STORE_URL =
-  "https://play.google.com/store/apps/details?id=com.kapa.nuzzledev";
+  "https://play.google.com/store/apps/details?id=com.kapa.nuzzle";
 
 type PageProps = {
   params: Promise<{ userId: string }>;
