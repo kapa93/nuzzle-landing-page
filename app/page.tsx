@@ -116,7 +116,7 @@ export default function Home() {
         </section>
 
         {/* Contact */}
-        <section className="py-20 px-6 bg-white">
+        <section id="contact" className="py-20 px-6 bg-white">
           <div className="max-w-2xl mx-auto text-center">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">
               Get in touch
