@@ -691,3 +691,40 @@ Rules can only go so far. The real spirit of Nuzzle is this: **be the kind of co
 
 *© 2026 Little Wonder LLC. All rights reserved.*
 `;
+
+export const deleteAccountMarkdown = `# Delete Your Nuzzle Account
+
+Nuzzle (operated by Little Wonder LLC) lets you permanently delete your account
+and associated data directly from the app.
+
+## How to delete your account
+
+1. Open the Nuzzle app and sign in.
+2. Go to your Profile tab.
+3. Tap Settings.
+4. Under "Account," tap Delete Account.
+5. Confirm the deletion when prompted.
+
+If you're unable to access the app, email hello@nuzzleapp.io from the address
+associated with your account and we will process the deletion within a
+reasonable timeframe.
+
+## What gets deleted
+
+When you delete your account, we permanently delete:
+- Your profile (name, email, city, profile photo)
+- Your dog profiles and photos
+- Your posts, comments, and reactions
+- Your meetup RSVPs and dog interaction logs
+- Your saved places and place vibes
+
+## What may be retained
+
+Content you posted that others have commented on or reacted to may be
+anonymized (rather than deleted) to preserve the integrity of community
+discussions, consistent with our Privacy Policy. We may also retain limited
+information where required for legal or legitimate business purposes (e.g.
+fraud prevention, dispute resolution).
+
+See our full [Privacy Policy](https://nuzzleapp.io/privacy) for details.
+`;

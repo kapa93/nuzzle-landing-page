@@ -3,7 +3,7 @@ import ReactMarkdown from "react-markdown";
 import type { Components } from "react-markdown";
 import remarkGfm from "remark-gfm";
 
-type LegalKey = "privacy" | "terms" | "community-guidelines";
+type LegalKey = "privacy" | "terms" | "community-guidelines" | "delete-account";
 
 const NAV: { href: string; key: LegalKey; label: string }[] = [
   { href: "/privacy", key: "privacy", label: "Privacy Policy" },
