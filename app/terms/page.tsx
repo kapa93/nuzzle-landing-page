@@ -3,9 +3,9 @@ import { LegalPage } from "@/components/LegalPage";
 import { termsOfServiceMarkdown } from "@/content/legal";
 
 export const metadata: Metadata = {
-  title: "Terms of Service — Nuzzle",
+  title: "Terms of Service — Pawsse",
   description:
-    "The terms governing your use of Nuzzle, operated by Little Wonder LLC.",
+    "The terms governing your use of Pawsse, operated by Little Wonder LLC.",
   alternates: { canonical: "/terms" },
 };
 

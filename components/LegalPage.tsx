@@ -88,7 +88,7 @@ export function LegalPage({
             href="/"
             className="text-xl font-semibold tracking-tight text-gray-900 hover:text-[#3a7d44] transition-colors"
           >
-            Nuzzle
+            Pawsse
           </Link>
         </div>
       </header>

@@ -31,7 +31,7 @@ export default function DownloadPage() {
         <p className="text-2xl mb-2">🐾</p>
         <h1 className="text-3xl font-bold text-gray-900 mb-3">Coming soon to Android</h1>
         <p className="text-gray-500 max-w-sm">
-          The Nuzzle Android app is currently under review. Check back soon —
+          The Pawsse Android app is currently under review. Check back soon —
           we can&rsquo;t wait to bring it to you!
         </p>
       </div>
@@ -41,9 +41,9 @@ export default function DownloadPage() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-[#f4fbf5] px-6 text-center">
       <p className="text-2xl mb-2">🐾</p>
-      <h1 className="text-3xl font-bold text-gray-900 mb-3">Get Nuzzle</h1>
+      <h1 className="text-3xl font-bold text-gray-900 mb-3">Get Pawsse</h1>
       <p className="text-gray-500 mb-10 max-w-sm">
-        Download Nuzzle to find your dog&rsquo;s community. Available on iOS,
+        Download Pawsse to find your dog&rsquo;s community. Available on iOS,
         with Android coming soon.
       </p>
       <a

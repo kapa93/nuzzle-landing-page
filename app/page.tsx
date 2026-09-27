@@ -8,7 +8,7 @@ export default function Home() {
       <header className="w-full border-b border-gray-100 bg-white/90 backdrop-blur-sm sticky top-0 z-10">
         <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
           <span className="text-xl font-semibold tracking-tight text-gray-900">
-            Nuzzle
+            Pawsse
           </span>
           <a
             href="mailto:hello@nuzzleapp.io"
@@ -23,21 +23,25 @@ export default function Home() {
         {/* Hero */}
         <section className="bg-[#f4fbf5] py-24 px-6">
           <div className="max-w-3xl mx-auto text-center">
-            <div className="mb-8">
+            <div className="relative mb-8 inline-block">
+              <span className="absolute right-[14%] top-[23%] text-md font-medium leading-none text-black">
+                Join the
+              </span>
               <Image
-                src="/nuzzle-logo.png"
-                alt="Nuzzle"
+                src="/pawsse-logo.png"
+                alt="Pawsse"
                 width={240}
-                height={80}
-                className="mx-auto h-auto"
+                height={96}
+                className="h-auto w-[240px]"
+                style={{ height: "auto" }}
                 priority
               />
             </div>
-            <h1 className="text-5xl sm:text-6xl font-bold text-gray-900 tracking-tight leading-tight mb-6">
-              Find your dog&rsquo;s community.
+            <h1 className="text-4xl sm:text-6xl font-bold text-gray-900 tracking-tight leading-tight mb-6">
+              In the loop. Off the leash.
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed max-w-2xl mx-auto">
-              Nuzzle connects dog owners through breed communities, local
+              Pawsse connects dog owners through breed communities, local
               meetups, and neighborhood dog spots — a social home for you and
               your pup.
             </p>
@@ -100,10 +104,10 @@ export default function Home() {
         <section className="py-20 px-6 bg-[#f4fbf5]">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">
-              About Nuzzle
+              About Pawsse
             </h2>
             <p className="text-lg text-gray-600 leading-relaxed mb-4">
-              Nuzzle is built by{" "}
+              Pawsse is built by{" "}
               <strong className="text-gray-900">Little Wonder LLC</strong> — a
               small team passionate about building thoughtful software for the
               people (and pets) we care about.

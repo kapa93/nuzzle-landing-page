@@ -1,10 +1,10 @@
 // Canonical legal content for nuzzleapp.io.
-// Source of truth: the Nuzzle app repo `documents/` markdown files.
+// Source of truth: the Pawsse app repo `documents/` markdown files.
 // Keep this in sync when those documents change.
 
 export const privacyPolicyMarkdown = `# Privacy Policy
 
-**Nuzzle**
+**Pawsse**
 **Effective Date: April 12, 2026**
 **Last Updated: June 16, 2026**
 
@@ -12,9 +12,9 @@ export const privacyPolicyMarkdown = `# Privacy Policy
 
 ## 1. Introduction
 
-Welcome to Nuzzle. Nuzzle is operated by **Little Wonder LLC** ("we," "our," or "us"). Nuzzle is a social community app for dog breed enthusiasts, connecting dog owners through breed-specific feeds, meetups, Dog Spots (dog parks, beaches, and trails), Dog Friendly Places (nearby dog-welcoming businesses), place check-ins, and dog-to-dog social interactions.
+Welcome to Pawsse. Pawsse is operated by **Little Wonder LLC** ("we," "our," or "us"). Pawsse is a social community app for dog breed enthusiasts, connecting dog owners through breed-specific feeds, meetups, Dog Spots (dog parks, beaches, and trails), Dog Friendly Places (nearby dog-welcoming businesses), place check-ins, and dog-to-dog social interactions.
 
-This Privacy Policy explains what information we collect, how we use it, with whom we share it, and the choices you have regarding your information. By creating an account or using Nuzzle, you agree to the practices described in this policy.
+This Privacy Policy explains what information we collect, how we use it, with whom we share it, and the choices you have regarding your information. By creating an account or using Pawsse, you agree to the practices described in this policy.
 
 ---
 
@@ -22,7 +22,7 @@ This Privacy Policy explains what information we collect, how we use it, with wh
 
 ### 2.1 Account and Profile Information
 
-When you register and use Nuzzle, we collect:
+When you register and use Pawsse, we collect:
 
 - **Name** and **display name**
 - **Email address**
@@ -87,7 +87,7 @@ We may automatically collect:
 
 We use the information we collect to:
 
-- **Provide and operate** the Nuzzle app, including your personalized home feed, breed-community feeds, and notifications
+- **Provide and operate** the Pawsse app, including your personalized home feed, breed-community feeds, and notifications
 - **Authenticate you** and maintain your session securely
 - **Display your profile and your dogs' profiles** to other users in the community
 - **Enable social features** — posts, comments, reactions, meetup RSVPs, dog-to-dog interaction logs, and place vibes
@@ -104,9 +104,9 @@ We use the information we collect to:
 
 ## 4. How We Share Your Information
 
-### 4.1 With Other Nuzzle Users
+### 4.1 With Other Pawsse Users
 
-Nuzzle is a social community. The following information is visible to other users by default:
+Pawsse is a social community. The following information is visible to other users by default:
 
 - Your display name, profile photo, and city
 - Your dogs' names, breeds, photos, and public compatibility profiles
@@ -132,17 +132,17 @@ If you use Sign in with Apple or Google, the provider shares limited authenticat
 
 ### 4.4 Legal Requirements
 
-We may disclose your information if required to do so by law, regulation, legal process, or governmental request, or to protect the rights, property, or safety of Nuzzle, our users, or others.
+We may disclose your information if required to do so by law, regulation, legal process, or governmental request, or to protect the rights, property, or safety of Pawsse, our users, or others.
 
 ### 4.5 Business Transfers
 
-If Nuzzle is involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction. We will notify you via in-app notice or email before your information is transferred and becomes subject to a different privacy policy.
+If Pawsse is involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction. We will notify you via in-app notice or email before your information is transferred and becomes subject to a different privacy policy.
 
 ---
 
 ## 5. Photos and Media
 
-Photos you upload (profile photos, dog photos, and post images) are stored in Supabase Storage and are accessible via public URLs to display content within the app. Do not upload photos containing sensitive personal information beyond what you intend to share with the Nuzzle community.
+Photos you upload (profile photos, dog photos, and post images) are stored in Supabase Storage and are accessible via public URLs to display content within the app. Do not upload photos containing sensitive personal information beyond what you intend to share with the Pawsse community.
 
 ---
 
@@ -160,7 +160,7 @@ We do not continuously track your location, and we do not share your precise loc
 
 ## 7. Notifications
 
-Nuzzle sends both in-app notifications and push notifications to keep you informed about community activity relevant to you — for example, comments and reactions on your posts, meetup RSVPs, dog interactions involving your dog, and relevant community activity. To deliver push notifications, we register a push token for your device with the Expo push notification service. You can turn push notifications on or off at any time through your device's system settings, and you may decline the notification permission when first prompted.
+Pawsse sends both in-app notifications and push notifications to keep you informed about community activity relevant to you — for example, comments and reactions on your posts, meetup RSVPs, dog interactions involving your dog, and relevant community activity. To deliver push notifications, we register a push token for your device with the Expo push notification service. You can turn push notifications on or off at any time through your device's system settings, and you may decline the notification permission when first prompted.
 
 ---
 
@@ -174,7 +174,7 @@ Content you have posted that was reacted to or commented on by others may be ano
 
 ## 9. Children's Privacy
 
-Nuzzle is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided us with personal information, please contact us and we will take steps to delete that information.
+Pawsse is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided us with personal information, please contact us and we will take steps to delete that information.
 
 ---
 
@@ -208,7 +208,7 @@ If you are a California resident, you have the right to know what personal infor
 
 ### European / UK Residents (GDPR / UK GDPR)
 
-If you are located in the European Economic Area or the United Kingdom, our legal bases for processing your information are: **performance of a contract** (providing the Nuzzle service), **legitimate interests** (improving the app, preventing fraud), and **consent** (location access). You may contact us to exercise your data subject rights at any time.
+If you are located in the European Economic Area or the United Kingdom, our legal bases for processing your information are: **performance of a contract** (providing the Pawsse service), **legitimate interests** (improving the app, preventing fraud), and **consent** (location access). You may contact us to exercise your data subject rights at any time.
 
 ---
 
@@ -222,7 +222,7 @@ The app may link to third-party content or services. This Privacy Policy does no
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us at:
 
-**Nuzzle** — operated by **Little Wonder LLC**
+**Pawsse** — operated by **Little Wonder LLC**
 Email: **hello@nuzzleapp.io**
 
 We will respond to your inquiry within a reasonable timeframe.
@@ -231,7 +231,7 @@ We will respond to your inquiry within a reasonable timeframe.
 
 ## 14. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. When we do, we will update the "Last Updated" date at the top of this document and, for material changes, notify you within the app or by email. Your continued use of Nuzzle after any changes constitutes your acceptance of the updated policy.
+We may update this Privacy Policy from time to time. When we do, we will update the "Last Updated" date at the top of this document and, for material changes, notify you within the app or by email. Your continued use of Pawsse after any changes constitutes your acceptance of the updated policy.
 
 ---
 
@@ -240,7 +240,7 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 export const termsOfServiceMarkdown = `# Terms of Service
 
-**Nuzzle**
+**Pawsse**
 **Effective Date: April 12, 2026**
 **Last Updated: June 16, 2026**
 
@@ -248,7 +248,7 @@ export const termsOfServiceMarkdown = `# Terms of Service
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using the Nuzzle mobile application ("App," "Service," or "Nuzzle"), you agree to be bound by these Terms of Service ("Terms"). Nuzzle is operated by **Little Wonder LLC** ("we," "our," or "us"). If you do not agree to these Terms, do not use Nuzzle.
+By downloading, installing, or using the Pawsse mobile application ("App," "Service," or "Pawsse"), you agree to be bound by these Terms of Service ("Terms"). Pawsse is operated by **Little Wonder LLC** ("we," "our," or "us"). If you do not agree to these Terms, do not use Pawsse.
 
 We may update these Terms from time to time. We will notify you of material changes via in-app notice or email. Your continued use of the App after changes take effect constitutes your acceptance of the revised Terms.
 
@@ -256,7 +256,7 @@ We may update these Terms from time to time. We will notify you of material chan
 
 ## 2. Eligibility
 
-You must be at least **13 years old** to use Nuzzle. By creating an account, you represent that you meet this age requirement. If you are under 18, you represent that your parent or legal guardian has reviewed and agreed to these Terms on your behalf.
+You must be at least **13 years old** to use Pawsse. By creating an account, you represent that you meet this age requirement. If you are under 18, you represent that your parent or legal guardian has reviewed and agreed to these Terms on your behalf.
 
 ---
 
@@ -276,9 +276,9 @@ You may create only one personal account. Creating multiple accounts to evade a 
 
 ---
 
-## 4. The Nuzzle Service
+## 4. The Pawsse Service
 
-Nuzzle provides a social community platform for dog breed enthusiasts, including:
+Pawsse provides a social community platform for dog breed enthusiasts, including:
 
 - **Breed communities** — breed-specific feeds and discussion
 - **Posts** — Questions, Updates/Stories, Tips, and Meetups with photos
@@ -302,11 +302,11 @@ We reserve the right to modify, suspend, or discontinue any feature of the Servi
 
 ### 5.1 Your Content
 
-"User Content" means any text, photos, comments, reactions, dog profiles, meetup details, or other material you submit, post, or share through Nuzzle. You retain ownership of your User Content.
+"User Content" means any text, photos, comments, reactions, dog profiles, meetup details, or other material you submit, post, or share through Pawsse. You retain ownership of your User Content.
 
-### 5.2 License to Nuzzle
+### 5.2 License to Pawsse
 
-By posting User Content, you grant Nuzzle a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, store, display, reproduce, and distribute your User Content solely for the purpose of operating and improving the Service. This license ends when you delete the content or your account, subject to the retention provisions in our Privacy Policy.
+By posting User Content, you grant Pawsse a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, store, display, reproduce, and distribute your User Content solely for the purpose of operating and improving the Service. This license ends when you delete the content or your account, subject to the retention provisions in our Privacy Policy.
 
 ### 5.3 Your Responsibility
 
@@ -326,12 +326,12 @@ We reserve the right to remove any User Content that violates these Terms or our
 
 You agree not to:
 
-- **Violate any law** — use Nuzzle for any unlawful purpose or in violation of any applicable local, state, national, or international law
+- **Violate any law** — use Pawsse for any unlawful purpose or in violation of any applicable local, state, national, or international law
 - **Harass or harm others** — bully, harass, threaten, stalk, or intimidate any user or their dog(s)
 - **Post prohibited content** — share content that is hateful, discriminatory, sexually explicit, graphically violent, or that promotes self-harm
 - **Spam** — post repetitive, unsolicited, or promotional content; create fake accounts or automated bots
 - **Impersonate** — falsely represent yourself as another person, user, or organization
-- **Scrape or data-mine** — use automated tools to extract data from Nuzzle without our written permission
+- **Scrape or data-mine** — use automated tools to extract data from Pawsse without our written permission
 - **Interfere with the Service** — attempt to access systems or data you are not authorized to access; introduce malware; conduct denial-of-service attacks
 - **Misuse the report system** — file false or bad-faith reports against other users
 - **Violate animal welfare** — post content that depicts, encourages, or glorifies animal cruelty or abuse
@@ -341,24 +341,24 @@ You agree not to:
 
 ## 7. Dog Profiles and Interactions
 
-Nuzzle allows you to create profiles for your dog(s) and log interactions between dogs. You represent that:
+Pawsse allows you to create profiles for your dog(s) and log interactions between dogs. You represent that:
 
 - You are the owner or an authorized caretaker of any dog you register
 - The information you provide about your dog is accurate to the best of your knowledge
 - You have the right to share photos of your dog
 
-Dog interaction logs are social features intended to help owners remember dogs they have met. They are not a guarantee of compatibility or safety, and Nuzzle is not responsible for any outcomes arising from dog meetings arranged through or inspired by the app.
+Dog interaction logs are social features intended to help owners remember dogs they have met. They are not a guarantee of compatibility or safety, and Pawsse is not responsible for any outcomes arising from dog meetings arranged through or inspired by the app.
 
 ---
 
 ## 8. Meetups
 
-Nuzzle enables users to organize and RSVP to dog meetup events. You acknowledge that:
+Pawsse enables users to organize and RSVP to dog meetup events. You acknowledge that:
 
-- Nuzzle is a coordination platform only; we do not organize, sponsor, or supervise any meetup
+- Pawsse is a coordination platform only; we do not organize, sponsor, or supervise any meetup
 - You attend any meetup at your own risk
 - You are responsible for your own safety and the safety and behavior of your dog(s) at any meetup
-- Nuzzle is not liable for any injury, property damage, or other harm occurring at or in connection with a meetup arranged through the app
+- Pawsse is not liable for any injury, property damage, or other harm occurring at or in connection with a meetup arranged through the app
 
 ---
 
@@ -375,25 +375,25 @@ Dog Spots are curated outdoor locations (dog beaches, dog parks, trails, and sim
 
 ## 10. Health Disclaimer
 
-Some posts on Nuzzle may be tagged with a health-related topic. Nuzzle displays a health disclaimer on such posts. Content on Nuzzle is user-generated and is **not a substitute for professional veterinary advice, diagnosis, or treatment**. Always consult a licensed veterinarian for guidance regarding your dog's health. Nuzzle is not responsible for any harm arising from reliance on health-related content posted by users.
+Some posts on Pawsse may be tagged with a health-related topic. Pawsse displays a health disclaimer on such posts. Content on Pawsse is user-generated and is **not a substitute for professional veterinary advice, diagnosis, or treatment**. Always consult a licensed veterinarian for guidance regarding your dog's health. Pawsse is not responsible for any harm arising from reliance on health-related content posted by users.
 
 ---
 
 ## 11. Intellectual Property
 
-All rights in the Nuzzle application, including the name, logo, design, software, and original content created by Nuzzle, are owned by or licensed to us and are protected by applicable intellectual property laws. You may not copy, modify, distribute, sell, or lease any part of the Service or its underlying software without our prior written consent.
+All rights in the Pawsse application, including the name, logo, design, software, and original content created by Pawsse, are owned by or licensed to us and are protected by applicable intellectual property laws. You may not copy, modify, distribute, sell, or lease any part of the Service or its underlying software without our prior written consent.
 
 ---
 
 ## 12. Privacy
 
-Your use of Nuzzle is also governed by our [Privacy Policy](/privacy), which is incorporated into these Terms by reference. Please review the Privacy Policy to understand our practices.
+Your use of Pawsse is also governed by our [Privacy Policy](/privacy), which is incorporated into these Terms by reference. Please review the Privacy Policy to understand our practices.
 
 ---
 
 ## 13. Third-Party Services and Links
 
-Nuzzle uses third-party services, including:
+Pawsse uses third-party services, including:
 
 - **Supabase** — database, authentication, and file storage infrastructure
 - **Apple** — Sign in with Apple authentication
@@ -407,9 +407,9 @@ Your use of those services is governed by their respective terms and policies. W
 
 ### 14.1 By You
 
-You may stop using Nuzzle and delete your account at any time from your profile in the app.
+You may stop using Pawsse and delete your account at any time from your profile in the app.
 
-### 14.2 By Nuzzle
+### 14.2 By Pawsse
 
 We may suspend or terminate your account at any time, with or without notice, if we believe you have violated these Terms, our Community Guidelines, or applicable law, or if we determine that your conduct is harmful to other users or the community.
 
@@ -427,7 +427,7 @@ THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KI
 
 ## 16. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NUZZLE AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SERVICE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, PAWSSE AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SERVICE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID US IN THE TWELVE MONTHS PRIOR TO THE CLAIM OR (B) ONE HUNDRED DOLLARS (USD $100).
 
@@ -435,7 +435,7 @@ IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU EXCEED THE GREATER OF (A) THE AMOUN
 
 ## 17. Indemnification
 
-You agree to indemnify, defend, and hold harmless Nuzzle and its officers, directors, employees, and agents from any claims, liabilities, damages, losses, costs, or expenses (including reasonable legal fees) arising out of or related to: (a) your use of the Service; (b) your User Content; (c) your violation of these Terms; or (d) your violation of any third-party rights.
+You agree to indemnify, defend, and hold harmless Pawsse and its officers, directors, employees, and agents from any claims, liabilities, damages, losses, costs, or expenses (including reasonable legal fees) arising out of or related to: (a) your use of the Service; (b) your User Content; (c) your violation of these Terms; or (d) your violation of any third-party rights.
 
 ---
 
@@ -449,7 +449,7 @@ These Terms are governed by the laws of the State of California, without regard 
 
 If you have questions about these Terms, please contact us at:
 
-**Nuzzle** — operated by **Little Wonder LLC**
+**Pawsse** — operated by **Little Wonder LLC**
 Email: **hello@nuzzleapp.io**
 
 ---
@@ -461,17 +461,17 @@ export const communityGuidelinesMarkdown = `# Community Guidelines
 
 ---
 
-## Welcome to the Nuzzle Community
+## Welcome to the Pawsse Community
 
-Nuzzle exists to bring dog lovers together — to share stories, ask questions, celebrate breeds, organize meetups, and build a real community around the dogs in our lives. To keep this a safe, welcoming, and genuinely useful place for everyone (humans and dogs alike), we ask all members to follow these guidelines.
+Pawsse exists to bring dog lovers together — to share stories, ask questions, celebrate breeds, organize meetups, and build a real community around the dogs in our lives. To keep this a safe, welcoming, and genuinely useful place for everyone (humans and dogs alike), we ask all members to follow these guidelines.
 
-Violations may result in content removal, account suspension, or a permanent ban, depending on severity. These guidelines apply to all content and behavior on Nuzzle, including posts, comments, reactions, dog profiles, meetup listings, direct interactions, and check-ins.
+Violations may result in content removal, account suspension, or a permanent ban, depending on severity. These guidelines apply to all content and behavior on Pawsse, including posts, comments, reactions, dog profiles, meetup listings, direct interactions, and check-ins.
 
 ---
 
 ## 1. Be Kind and Respectful
 
-Nuzzle is a community built on a shared love of dogs. Treat every member the way you'd want to be treated at a dog park.
+Pawsse is a community built on a shared love of dogs. Treat every member the way you'd want to be treated at a dog park.
 
 **Do:**
 - Engage with curiosity and openness, even when you disagree
@@ -490,7 +490,7 @@ Nuzzle is a community built on a shared love of dogs. Treat every member the way
 
 ## 2. Keep It About Dogs
 
-Nuzzle is a dog community, not a general social network or political forum.
+Pawsse is a dog community, not a general social network or political forum.
 
 **Do:**
 - Post content relevant to dogs, breeds, dog care, meetups, Dog Spots, or Dog Friendly Places
@@ -498,7 +498,7 @@ Nuzzle is a dog community, not a general social network or political forum.
 
 **Don't:**
 - Post off-topic political, religious, or unrelated commercial content
-- Use Nuzzle as a platform to promote unrelated businesses, campaigns, or causes
+- Use Pawsse as a platform to promote unrelated businesses, campaigns, or causes
 - Redirect discussions away from dogs and into divisive unrelated topics
 
 ---
@@ -522,7 +522,7 @@ Trust is the foundation of a useful community.
 
 ## 4. Health and Veterinary Topics
 
-Questions about dog health are some of the most important discussions on Nuzzle. Handle them responsibly.
+Questions about dog health are some of the most important discussions on Pawsse. Handle them responsibly.
 
 **Do:**
 - Share your own experiences and what worked for your dog
@@ -535,13 +535,13 @@ Questions about dog health are some of the most important discussions on Nuzzle.
 - Share unverified or dangerous health advice (e.g., harmful home remedies)
 - Diagnose another user's dog
 
-> A health disclaimer is automatically shown on health-tagged posts as a reminder that content on Nuzzle is not veterinary advice.
+> A health disclaimer is automatically shown on health-tagged posts as a reminder that content on Pawsse is not veterinary advice.
 
 ---
 
 ## 5. Photos and Media
 
-Photos make Nuzzle come alive. Keep them appropriate and honest.
+Photos make Pawsse come alive. Keep them appropriate and honest.
 
 **Do:**
 - Share clear, well-lit photos of your dog(s)
@@ -557,7 +557,7 @@ Photos make Nuzzle come alive. Keep them appropriate and honest.
 
 ## 6. No Hate, Discrimination, or Harassment
 
-Nuzzle has zero tolerance for hate.
+Pawsse has zero tolerance for hate.
 
 **Prohibited:**
 - Hate speech targeting any person or group based on race, ethnicity, national origin, religion, gender, gender identity, sexual orientation, disability, or any other protected characteristic
@@ -571,15 +571,15 @@ This includes content in posts, comments, dog profile descriptions, meetup listi
 
 ## 7. No Spam or Self-Promotion
 
-Keep Nuzzle's feeds useful and authentic.
+Keep Pawsse's feeds useful and authentic.
 
 **Prohibited:**
 - Repetitive or unsolicited promotional posts for products, services, or external links
-- Using Nuzzle primarily or exclusively to drive traffic to an external site, store, or social account
+- Using Pawsse primarily or exclusively to drive traffic to an external site, store, or social account
 - Automated posting, bot accounts, or scripted activity
 - Comment sections used for commercial solicitation
 
-> Sharing a product or resource you genuinely found helpful, in the relevant context, is fine. Turning Nuzzle into an ad channel is not.
+> Sharing a product or resource you genuinely found helpful, in the relevant context, is fine. Turning Pawsse into an ad channel is not.
 
 ---
 
@@ -598,7 +598,7 @@ Violations of this rule will result in immediate and permanent account terminati
 
 ## 9. Meetups
 
-Nuzzle meetups are a highlight of the community. Make them safe and welcoming.
+Pawsse meetups are a highlight of the community. Make them safe and welcoming.
 
 **Do:**
 - Post accurate meetup details (location, time, what to expect, dog size/energy level guidance if relevant)
@@ -610,7 +610,7 @@ Nuzzle meetups are a highlight of the community. Make them safe and welcoming.
 - Create meetups with the intent to exclude based on protected characteristics
 - Harass or pressure other users to attend events
 
-> Remember: Nuzzle facilitates meetup coordination but is not responsible for events. Attend and host responsibly.
+> Remember: Pawsse facilitates meetup coordination but is not responsible for events. Attend and host responsibly.
 
 ---
 
@@ -629,7 +629,7 @@ Dog Spots are curated outdoor locations (dog beaches, parks, and trails) with co
 - Suggest communities for places you have not visited or that have no relevance to dogs
 - Use place pages to harass or target specific businesses or their staff
 
-> Nuzzle is not affiliated with any third-party business listed in Dog Friendly Places. Listings are sourced from Google Places and community contributions.
+> Pawsse is not affiliated with any third-party business listed in Dog Friendly Places. Listings are sourced from Google Places and community contributions.
 
 ---
 
@@ -683,23 +683,23 @@ We reserve the right to make enforcement decisions at our discretion. If you bel
 
 ## The Spirit of These Guidelines
 
-Rules can only go so far. The real spirit of Nuzzle is this: **be the kind of community member whose dog you'd want to meet at the park.** Show up with generosity, curiosity, and good faith — and bring your dog next time.
+Rules can only go so far. The real spirit of Pawsse is this: **be the kind of community member whose dog you'd want to meet at the park.** Show up with generosity, curiosity, and good faith — and bring your dog next time.
 
 ---
 
-*These guidelines are incorporated into the Nuzzle [Terms of Service](/terms) and should be read alongside them.*
+*These guidelines are incorporated into the Pawsse [Terms of Service](/terms) and should be read alongside them.*
 
 *© 2026 Little Wonder LLC. All rights reserved.*
 `;
 
-export const deleteAccountMarkdown = `# Delete Your Nuzzle Account
+export const deleteAccountMarkdown = `# Delete Your Pawsse Account
 
-Nuzzle (operated by Little Wonder LLC) lets you permanently delete your account
+Pawsse (operated by Little Wonder LLC) lets you permanently delete your account
 and associated data directly from the app.
 
 ## How to delete your account
 
-1. Open the Nuzzle app and sign in.
+1. Open the Pawsse app and sign in.
 2. Go to your Profile tab.
 3. Tap Settings.
 4. Under "Account," tap Delete Account.

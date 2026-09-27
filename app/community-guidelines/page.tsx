@@ -3,9 +3,9 @@ import { LegalPage } from "@/components/LegalPage";
 import { communityGuidelinesMarkdown } from "@/content/legal";
 
 export const metadata: Metadata = {
-  title: "Community Guidelines — Nuzzle",
+  title: "Community Guidelines — Pawsse",
   description:
-    "The rules that keep Nuzzle a safe, welcoming community for dogs and their people.",
+    "The rules that keep Pawsse a safe, welcoming community for dogs and their people.",
   alternates: { canonical: "/community-guidelines" },
 };
 

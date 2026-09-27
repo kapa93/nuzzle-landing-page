@@ -3,9 +3,9 @@ import { LegalPage } from "@/components/LegalPage";
 import { privacyPolicyMarkdown } from "@/content/legal";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy — Nuzzle",
+  title: "Privacy Policy — Pawsse",
   description:
-    "How Nuzzle (operated by Little Wonder LLC) collects, uses, and protects your information.",
+    "How Pawsse (operated by Little Wonder LLC) collects, uses, and protects your information.",
   alternates: { canonical: "/privacy" },
 };
 

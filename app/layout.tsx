@@ -8,16 +8,16 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Nuzzle",
+  title: "Pawsse",
   description:
     "A community app for dog owners. Discover breed communities, find local dog-friendly spots, and plan meetups and playdates.",
   metadataBase: new URL("https://nuzzleapp.io"),
   openGraph: {
-    title: "Nuzzle",
+    title: "Pawsse",
     description:
       "A community app for dog owners. Discover breed communities, find local dog-friendly spots, and plan meetups and playdates.",
     url: "https://nuzzleapp.io",
-    siteName: "Nuzzle",
+    siteName: "Pawsse",
     type: "website",
   },
 };

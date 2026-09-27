@@ -3,9 +3,9 @@ import { createClient } from "@supabase/supabase-js";
 import { notFound } from "next/navigation";
 
 const SITE_ORIGIN = "https://www.nuzzleapp.io";
-const APP_STORE_URL = "https://apps.apple.com/app/id6781108216";
+const APP_STORE_URL = "https://apps.apple.com/app/idREPLACE_APP_STORE_ID";
 const PLAY_STORE_URL =
-  "https://play.google.com/store/apps/details?id=com.kapa.nuzzle";
+  "https://play.google.com/store/apps/details?id=com.kapa.nuzzledev";
 
 type PageProps = {
   params: Promise<{ postId: string }>;
@@ -68,14 +68,14 @@ export async function generateMetadata({
   const { postId } = await params;
   const post = await fetchPost(postId);
 
-  const authorName = post?.profiles?.name ?? "A Nuzzle member";
+  const authorName = post?.profiles?.name ?? "A Pawsse member";
   const rawTitle = post?.title?.trim() || post?.content_text?.trim() || "";
   const title = rawTitle
-    ? `${truncate(rawTitle, 80)} – Nuzzle`
-    : `${authorName} on Nuzzle`;
+    ? `${truncate(rawTitle, 80)} – Pawsse`
+    : `${authorName} on Pawsse`;
   const description = post?.content_text
     ? truncate(post.content_text, 200)
-    : "Join the dog community on Nuzzle — breed communities, local meetups, and neighborhood dog spots.";
+    : "Join the dog community on Pawsse — breed communities, local meetups, and neighborhood dog spots.";
   const image = firstImage(post) ?? `${SITE_ORIGIN}/og-default.png`;
   const url = `${SITE_ORIGIN}/post/${postId}`;
 
@@ -88,7 +88,7 @@ export async function generateMetadata({
       url,
       title,
       description,
-      siteName: "Nuzzle",
+      siteName: "Pawsse",
       images: [{ url: image, width: 1200, height: 630, alt: title }],
     },
     twitter: {
@@ -105,16 +105,16 @@ export default async function PostPage({ params }: PageProps) {
   const post = await fetchPost(postId);
   if (!post) notFound();
 
-  const authorName = post.profiles?.name ?? "A Nuzzle member";
+  const authorName = post.profiles?.name ?? "A Pawsse member";
   const heroImage = firstImage(post);
   const body =
-    post.content_text ?? post.title ?? "Open the post in the Nuzzle app.";
+    post.content_text ?? post.title ?? "Open the post in the Pawsse app.";
 
   return (
     <main className="mx-auto flex max-w-2xl flex-col gap-6 px-6 py-10">
       <header className="flex flex-col gap-2">
         <p className="text-sm uppercase tracking-wide text-neutral-500">
-          {post.type === "MEETUP" ? "Meetup" : "Post"} on Nuzzle
+          {post.type === "MEETUP" ? "Meetup" : "Post"} on Pawsse
         </p>
         {post.title ? (
           <h1 className="text-3xl font-semibold leading-tight">{post.title}</h1>
@@ -136,7 +136,7 @@ export default async function PostPage({ params }: PageProps) {
       </article>
 
       <section className="mt-4 flex flex-col gap-3 rounded-2xl border border-neutral-200 bg-neutral-50 p-6">
-        <h2 className="text-lg font-semibold">Read this post in the Nuzzle app</h2>
+        <h2 className="text-lg font-semibold">Read this post in the Pawsse app</h2>
         <p className="text-sm text-neutral-600">
           The full conversation, reactions, and meetup RSVPs live in the app.
         </p>
@@ -145,7 +145,7 @@ export default async function PostPage({ params }: PageProps) {
             href={`nuzzle://post/${postId}`}
             className="inline-flex items-center justify-center rounded-full bg-black px-5 py-3 text-sm font-semibold text-white"
           >
-            Open in Nuzzle
+            Open in Pawsse
           </a>
           <a
             href={APP_STORE_URL}
