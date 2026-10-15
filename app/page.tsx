@@ -11,7 +11,7 @@ export default function Home() {
             Pawsse
           </span>
           <a
-            href="mailto:hello@nuzzleapp.io"
+            href="mailto:hello@pawsse.io"
             className="text-sm font-medium text-[#3a7d44] hover:text-[#2d6235] transition-colors"
           >
             Contact
@@ -130,10 +130,10 @@ export default function Home() {
               hear from you.
             </p>
             <a
-              href="mailto:hello@nuzzleapp.io"
+              href="mailto:hello@pawsse.io"
               className="inline-block bg-[#3a7d44] text-white text-lg font-medium px-8 py-4 rounded-xl hover:bg-[#2d6235] transition-colors shadow-sm"
             >
-              hello@nuzzleapp.io
+              hello@pawsse.io
             </a>
           </div>
         </section>
@@ -160,7 +160,7 @@ export default function Home() {
               Community Guidelines
             </Link>
             <a
-              href="mailto:hello@nuzzleapp.io"
+              href="mailto:hello@pawsse.io"
               className="hover:text-white transition-colors"
             >
               Contact

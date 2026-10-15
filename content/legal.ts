@@ -223,7 +223,7 @@ The app may link to third-party content or services. This Privacy Policy does no
 If you have questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us at:
 
 **Pawsse** — operated by **Little Wonder LLC**
-Email: **hello@nuzzleapp.io**
+Email: **hello@pawsse.io**
 
 We will respond to your inquiry within a reasonable timeframe.
 
@@ -268,7 +268,7 @@ You may register using an email address and password or via **Sign in with Apple
 
 ### 3.2 Account Security
 
-You are responsible for maintaining the confidentiality of your login credentials and for all activity that occurs under your account. You agree to notify us immediately at **hello@nuzzleapp.io** if you suspect unauthorized use of your account.
+You are responsible for maintaining the confidentiality of your login credentials and for all activity that occurs under your account. You agree to notify us immediately at **hello@pawsse.io** if you suspect unauthorized use of your account.
 
 ### 3.3 One Account per Person
 
@@ -450,7 +450,7 @@ These Terms are governed by the laws of the State of California, without regard 
 If you have questions about these Terms, please contact us at:
 
 **Pawsse** — operated by **Little Wonder LLC**
-Email: **hello@nuzzleapp.io**
+Email: **hello@pawsse.io**
 
 ---
 
@@ -677,7 +677,7 @@ Depending on the nature and severity of a violation, we may take the following a
 | Serious | Harassment campaign, impersonation | Permanent ban |
 | Critical | Animal cruelty, threats of violence | Immediate permanent ban; possible law enforcement referral |
 
-We reserve the right to make enforcement decisions at our discretion. If you believe a moderation action was taken in error, you may contact us at **hello@nuzzleapp.io** to appeal.
+We reserve the right to make enforcement decisions at our discretion. If you believe a moderation action was taken in error, you may contact us at **hello@pawsse.io** to appeal.
 
 ---
 
@@ -705,7 +705,7 @@ and associated data directly from the app.
 4. Under "Account," tap Delete Account.
 5. Confirm the deletion when prompted.
 
-If you're unable to access the app, email hello@nuzzleapp.io from the address
+If you're unable to access the app, email hello@pawsse.io from the address
 associated with your account and we will process the deletion within a
 reasonable timeframe.
 
