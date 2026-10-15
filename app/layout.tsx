@@ -11,12 +11,12 @@ export const metadata: Metadata = {
   title: "Pawsse",
   description:
     "A community app for dog owners. Discover breed communities, find local dog-friendly spots, and plan meetups and playdates.",
-  metadataBase: new URL("https://nuzzleapp.io"),
+  metadataBase: new URL("https://www.pawsse.io"),
   openGraph: {
     title: "Pawsse",
     description:
       "A community app for dog owners. Discover breed communities, find local dog-friendly spots, and plan meetups and playdates.",
-    url: "https://nuzzleapp.io",
+    url: "https://www.pawsse.io",
     siteName: "Pawsse",
     type: "website",
   },

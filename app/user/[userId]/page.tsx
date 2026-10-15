@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { createClient } from "@supabase/supabase-js";
 import { notFound } from "next/navigation";
 
-const SITE_ORIGIN = "https://www.nuzzleapp.io";
+const SITE_ORIGIN = "https://www.pawsse.io";
 const APP_STORE_URL = "https://apps.apple.com/app/idREPLACE_APP_STORE_ID";
 const PLAY_STORE_URL =
   "https://play.google.com/store/apps/details?id=com.kapa.nuzzledev";

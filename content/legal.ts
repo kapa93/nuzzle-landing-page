@@ -1,4 +1,4 @@
-// Canonical legal content for nuzzleapp.io.
+// Canonical legal content for pawsse.io.
 // Source of truth: the Pawsse app repo `documents/` markdown files.
 // Keep this in sync when those documents change.
 
@@ -726,5 +726,5 @@ discussions, consistent with our Privacy Policy. We may also retain limited
 information where required for legal or legitimate business purposes (e.g.
 fraud prevention, dispute resolution).
 
-See our full [Privacy Policy](https://nuzzleapp.io/privacy) for details.
+See our full [Privacy Policy](https://www.pawsse.io/privacy) for details.
 `;
